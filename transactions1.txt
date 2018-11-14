@@ -1,0 +1,4 @@
+DELETE WL265298
+DELETE WL212490
+NEWPRODUCT WL265298New Wave Jacket-Simon                55.50 jacket
+NEWPRODUCT WL212490New Wave Jacket-Moutsi                55.50 jacket

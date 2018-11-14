@@ -1,0 +1,38 @@
+WL244926Heavyweight Jacket              54.95 JACKET  3  0  0  0  1  1  0  0 2  0  1  3  2
+WL169492Slip-on Wicked Good Slippers    49.95 SHOES 14  6  3  0  8  8  0  7  1  8  2  4 10
+WL188705Moc Boot Wicked Good Slippers   49.95 SHOES 10  7  0  4  1  5  5  2  8  7  6 10  9
+WL264593Moccasin Wicked Good Slippers   49.95 SHOES  0  0  0  0  0  0  0  0  0  0  0  0  0
+WL237757Solid Crewneck River Driver's   31.50 SHIRT 16 10  1 10  1  0 10  0  5  6  2  9  6
+WL166891Solid Henley River Driver's     36.50 SHIRT 16  0  8  8  1  4  7  9  0  0  0 0 0
+WL187923Chamois Cloth Shirt             34.50 SHIRT  8  7  3  0  6  6  3 10  0  6  0  3  9
+WL265851Button Mock Blue Jean Sweater   39.50 SWEATER  8  3  6  3  3  0  0  7 10  1  0  1  5
+WL265844Crewneck Blue Jean Sweater      36.50 SWEATER  4  2  1 10  0  4 10  3  8  6  3  8  4
+WL265847Zip-Cardigan Blue Jean Sweater  41.50 SWEATER  0  7  3  2  7  9 10  5  5  3  7  2  8
+WL228061Scotch Plaid Flannel Shirt      29.50 SHIRT 15 10  7  4  9  7  1 10  1  6  5  5  4
+WL248929Solid Chambray Sport Shirt      29.50 SHIRT 11  2  4 10  2  8  4  1  9  2  2  1  1
+WL248931Striped Chambray Sport Shirt    34.50 SHIRT  2  0 10 10  7  5  4  4  1  5  7 10  2
+WL212490Chino Belt                      29.50 ACCESSORY  5  6  5  1  8  7  0  5  3  0  1  0  2
+WL259132Shawl Collar Sheatland          54.50 SWEATER  2  6  3  3  3  3  7  7  6  8  0  9  8
+WL264610V-Neck Sheatland                39.50 SWEATER  4  9  1  0  9  8  3  6  8  0 10  5  1
+WL245345Crewneck Sheatland              39.50 SWEATER  4  6  8  2  7  6  4  3  3  8  3  0  4
+WL220626Unlined Double L Jeans          29.95 PANTS 16  7 10  8  6  3  6  7  3  1  7  1  9
+WL100220Flannel-Lined Double L Jeans    49.95 PANTS  5  5  3  4  5  8  3  2 10  4  2  6 10
+WL162343Fleece-Lined Double L Jeans     49.95 PANTS  3  8  1  0  1  0  7  1  5  2 10  2  6
+WL245886Hurricane Cloth Shirt           59.95 SHIRT 10  1  3 10  8  6  7  0  8  2  4  0  0
+WL242373Solid Double L Polo             24.95 SHIRT  0  0  0  0  0  0  0  0  0  0  0  0  0
+WL240717Striped Double L Polo           27.95 SHIRT  0  4  8  3  4  0  0  0  0  0  0  0  0
+WL209410Solid Oxford Cloth Shirt        29.50 SHIRT  0  5  1  5  1  4  6  7  0  9  1  9  2
+WL237870Tattersall Oxford Cloth Shirt   34.50 SHIRT  5  5  6  1  7 10  4  4  0  7  4  3  6
+WL212330Plain Front Double L Chinos     29.95 PANTS  6  6  3  1  5  3  1  6  3  1  6  9  1
+WL212334Pleated Double L Chinos         29.95 PANTS  8  4  5  6  8  0  8 10  3 10  7  2  9
+WL265298Stadium Parka                   79.00 JACKET  3  5  9  9  1  4  0  7  9  9  0  9  6
+WL252063Ragg Wool Hat                   19.50 ACCESSORY 20  0  0  4  9  2  9 10  9  4  8  6  4
+WL252889Ragg Wool Gloves                24.50 ACCESSORY 15  5 10  7  0  7 10  5  1 10  1  2  5
+WL258982Rugged Ridge Parka              169.00 JACKET  4  9  4  3  4  9  1  1 10  2  7  4  0
+WL258980Baxter State Parka              219.00 JACKET  3  8  1  8  6  8  7  1 10  9  8  0  3
+WL248931Striped Chambray Sport Shirt    34.50 SHIRT  2  0 10 10  7  5  4  4  1  5  7 10  2
+WL265276Storm Chaser Jacket             89.00 JACKET  8  1  3  7  9  7 10  1  6 10  8  2  2
+WL245797Goose Down Jacket               69.00 JACKET  4  5  1  4 10  5  2 10  3 10 10 10  1
+WL137102Blucher Handsewn Moccasin       69.00 SHOES  6  5  9  4  0  4  8  3 10  1  3  8  2
+WL260798Trailblazer Headlamp            19.95 ACCESSORY 10  3  1  0  9  0  1  1  7  3  9 10 10
+WL259881Quick Check Weather Station     19.95 ACCESSORY  8  8  0  4  0  2  3  3 10  8  4 10  0
